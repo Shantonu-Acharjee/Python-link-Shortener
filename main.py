@@ -6,4 +6,4 @@ x=shortener.tinyurl.short(link)
 
 print('\n\n\nThe Short Link Is : ',x)"""
 
-print('Hi I am Shantonu')
+a = 'Shantonu'
